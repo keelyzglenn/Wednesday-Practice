@@ -1,6 +1,7 @@
 .intro{
   font-family: 'Anton', sans-serif;
-  
+  padding-bottom: 30px;
+
 }
 
 .one{
@@ -25,4 +26,7 @@
   background-color: #ebf0fa;
   color: black;
   font-family: 'Anton', sans-serif;
+}
+.fs{
+  color: red;
 }
