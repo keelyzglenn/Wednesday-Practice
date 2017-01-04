@@ -1,0 +1,13 @@
+h1{
+  text-align: center;
+}
+
+.dates{
+  float:left;
+  width:30%;
+}
+
+.main{
+  float:left;
+  width: 70%;
+}
