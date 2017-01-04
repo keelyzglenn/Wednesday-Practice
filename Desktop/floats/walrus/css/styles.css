@@ -1,0 +1,11 @@
+.column{
+  width: 300px;
+  float: left;
+}
+
+.column1{
+  width: 300px;
+  float: left;
+  background-color: red;
+
+}
