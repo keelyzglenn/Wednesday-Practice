@@ -8,24 +8,31 @@
   background-color: #24478f;
   color: white;
   font-family: 'Open Sans Condensed', sans-serif;
+  margin-top: 50px;
 }
 
 .two{
   background-color: #24478f;
   color: white;
   font-family: 'Open Sans Condensed', sans-serif;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .three{
   background-color:#24478f;
   color: white;
   font-family: 'Open Sans Condensed', sans-serif;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .heading{
   background-color: #ebf0fa;
   color: black;
   font-family: 'Anton', sans-serif;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 .fs{
   color: red;

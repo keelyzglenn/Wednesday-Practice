@@ -1,18 +1,32 @@
 .before{
   float:left;
-  width: 33%;
+  width: 30%;
+  background-color: red;
 }
 
 .during{
   float: left;
-  width: 33%;
+  width: 30%;
+  background-color: white;
 }
 
 .after{
   float: left;
-  width: 33%;
+  width: 30%;
+  background-color: blue;
+}
+.tile img{
+  height: 150px;
 }
 
 img{
   width:66%;
+  height: 150px;
+}
+
+.tile{
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  height:300px;
+  text-align: center;
 }
